@@ -1,5 +1,7 @@
 <h2 align = "center">露天網站 爬蟲專案</h2>   
 
+![image](https://github.com/LiyLi1122/project-2-webcrawler/blob/00e8d2be88374736d711d44b06b97b9de3ede619/ruten-logo.jpg)
+
 ### 專案動機   
     在逛電商平台，常因圖文不一致導致觀看困難，希望可以先透過文字選擇要查詢的商品，  
     再根據網址搜尋商品圖片後決定是否購買。
