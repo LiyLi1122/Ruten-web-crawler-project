@@ -16,6 +16,7 @@
   * pyinstaller
 
 ### DEMO
-輸入關鍵字
+    1.輸入關鍵字
+    
 
 
