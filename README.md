@@ -1,4 +1,4 @@
-<h2 align = "center">露天網站 資料探勘專案</h2>   
+<h2 align = "center">露天拍賣 資料探勘專案</h2>   
 
 ![image](https://github.com/LiyLi1122/project-2-webcrawler/blob/00e8d2be88374736d711d44b06b97b9de3ede619/ruten-logo.jpg)
 
