@@ -12,10 +12,11 @@
     3. 利用資料擷取技術將搜尋資料，簡潔地顯示介面上。
     
 ### 專案使用技術
-  * python
-  * selenium
-  * tkinter
-  * pyinstaller
+  * Python
+  * 資料探勘
+  * Selenium
+  * Tkinter
+  * Pyinstaller
 
 ### DEMO
     1.輸入關鍵字-->得到搜尋結果-->選擇連結
